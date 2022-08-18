@@ -34,7 +34,7 @@ py -3.6 subs_RollPitchYaw_and_pub_cmdvel.py
 ```
 py -3.6 subs_cmdvel.py
 ```
-And make sure you modified the code before running it. (```#TO_DO``` part)
+And make sure you modify the code before running it. (```#TO_DO``` part)
 
 
 
