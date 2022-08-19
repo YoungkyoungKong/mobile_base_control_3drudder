@@ -9,6 +9,7 @@ This is a program to control mecanum wheel mobile base using 3D Rudder.
 http://wiki.ros.org/Installation/Windows
 * Python 3.6.3 (or maybe Python 3.5.2)
 * A mecanum wheel mobile base which has a MCU to run the ROS node
+* 3D Rudder (most important!)
 
 
 ## Getting started
