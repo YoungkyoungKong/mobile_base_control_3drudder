@@ -13,7 +13,7 @@ http://wiki.ros.org/Installation/Windows
 
 
 ## Getting started
-1. Open ROS terminal and start roscore
+1. Open ROS on Windows terminal and start roscore
 ```
 roscore
 ```
