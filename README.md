@@ -21,19 +21,19 @@ roscore
 
 2. Open another ROS terminal and run the publisher node by typing
 ```
-py -3.6 pub_RollPitchYaw.py
+py -3.6 pub_tilt.py
 ```
 
 
 3. Open the third ROS terminal and run the middle node(it subscribes and also publishes) by typing
 ```
-py -3.6 subs_RollPitchYaw_and_pub_cmdvel.py
+py -3.6 subs_tilt_pub_vel.py
 ```
 
 
 4. Download 'subs_cmdvel.py' to your mobile base MCU and run the node by typing
 ```
-py -3.6 subs_cmdvel.py
+py -3.6 subs_vel.py
 ```
 And make sure you have modified the code before running it. (```#TO_DO``` part)
 
