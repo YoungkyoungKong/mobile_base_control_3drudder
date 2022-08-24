@@ -31,7 +31,7 @@ py -3.6 subs_tilt_pub_vel.py
 ```
 
 
-4. Download 'subs_cmdvel.py' to your mobile base MCU and run the node by typing
+4. Download 'subs_vel.py' to your mobile base MCU and run the node by typing
 ```
 py -3.6 subs_vel.py
 ```
