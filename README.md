@@ -2,7 +2,7 @@ mobile_base_control_3drudder
 ============================
 
 ## Introduction
-This is a program to control mecanum wheel mobile base using 3D Rudder.
+This is a program to control mecanum wheel mobile base using 3D Rudder.  
 You can watch the project presentation video on https://youtu.be/YIO-dkTMMx4?si=7fVfAQmsA8AvOWXB
 
 ## Prerequisites
